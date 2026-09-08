@@ -1,0 +1,4 @@
+interface:
+  display_name: "HDA Loop"
+  short_description: "Build quality-driven Houdini assets for Unreal Engine"
+  default_prompt: "使用 $hda-loop 判断目标资产的质量条件和当前缺口，制作并验证相应 Houdini 生成器与 UE 产物。"

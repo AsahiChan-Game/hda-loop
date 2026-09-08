@@ -1,0 +1,13 @@
+.hda-loop/
+.env
+.env.*
+*.hip
+*.hiplc
+*.hipnc
+*.hda
+*.hdalc
+*.hdanc
+*.zip
+*.rar
+*.log
+__pycache__/
